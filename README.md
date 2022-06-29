@@ -15,7 +15,7 @@ Software: Python 3.10, Conda 4.13, jupyter notebook 6.4.11
 
 ## Result
 
-- Elbow Curve - we used elbow curve by K-Means method iterating on k values from 1 to 10
+- ** Elbow Curve ** - we used elbow curve by K-Means method iterating on k values from 1 to 10
 
 ![bokeh_plot](https://user-images.githubusercontent.com/100378319/176551362-a742d5f2-6f68-49ba-87af-4ee6ac1551ac.png)
 
